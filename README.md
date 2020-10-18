@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/mvrpl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mvrpl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mvrpl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mvrpl" height="30" width="40" /></a>
-<a href="/https://mvrpl.dev.br/pt-br/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mvrpl.dev.br/pt-br/rss/" height="30" width="40" /></a>
+<a href="https://mvrpl.dev.br/pt-br/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://mvrpl.dev.br/pt-br/rss/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
