@@ -49,4 +49,6 @@
   <a href="https://lucene.apache.org/solr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-  <a href="https://neo4j.com" target="_blank"> <img src="https://www.seekicon.com/free-icon-download/neo4j-icon_2.svg" alt="neo4j" width="40" height="40"/> </a></p>
+  <a href="https://neo4j.com" target="_blank"> <img src="https://www.seekicon.com/free-icon-download/neo4j-icon_2.svg" alt="neo4j" width="40" height="40"/> </a>
+  <a href="https://ethereum.org" target="_blank"> <img src="https://www.seekicon.com/free-icon-download/ethereum-icon_3.svg" alt="ethereum" width="40" height="40"/> </a>
+  </p>
