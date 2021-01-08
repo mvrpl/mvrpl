@@ -34,6 +34,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/> </a>
   
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40"/> </a>
   <h4><i> --- Básico ---</i></h4>
