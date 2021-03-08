@@ -20,8 +20,8 @@
 <p align="left"> 
   <h4><i> --- Avançado ---</i></h4>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/> </a>
-  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hadoop-F7DF1E?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop" height="40"/> </a>
-  <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hive-F7DF1E?style=for-the-badge&logo=apache-hive&logoColor=white" alt="hive" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hadoop-CCA300?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop" height="40"/> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hive-CCA300?style=for-the-badge&logo=apache-hive&logoColor=white" alt="hive" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="linux" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/> </a>
