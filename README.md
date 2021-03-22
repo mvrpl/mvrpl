@@ -37,6 +37,7 @@
   <a href="https://golang.org" target="_blank"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40"/> </a>
+    <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-1793D1?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="airflow" height="40"/> </a>
   <h4><i> --- Básico ---</i></h4>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="40"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="40"/> </a>
