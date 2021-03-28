@@ -19,7 +19,7 @@
 <h3 align="left"><b>Linguagens e ferramentas de conhecimento:</b></h3>
 <p align="left"> 
   <h4><i> --- Avançado ---</i></h4>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hadoop-CCA300?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hive-CCA300?style=for-the-badge&logo=apache-hive&logoColor=white" alt="hive" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="linux" height="40"/> </a>
