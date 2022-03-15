@@ -21,7 +21,7 @@
   <a href="https://spark.apache.org" target="_blank"> <img src="https://img.shields.io/badge/Apache_Spark-FA7343?style=for-the-badge&logo=apache-spark&logoColor=white" alt="apache-spark" height="40"/> </a> <a href="https://hbase.apache.org" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hbase-CC342D?style=for-the-badge&logo=apache-hbase&logoColor=white" alt="apache-hbase" height="40"/> </a>
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-1793D1?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="airflow" height="40"/> </a>
   <h4><i> --- Intermediário ---</i></h4>
-  <a href="https://delta.io/" target="_blank"> <img src="https://img.shields.io/badge/Delta_IO-00ADD8?style=for-the-badge&logo=delta-io&logoColor=white" alt="delta" height="40"/> </a>
+  <a href="https://delta.io/" target="_blank"> <img src="https://img.shields.io/badge/Delta_IO-003366?style=for-the-badge&logo=delta&logoColor=white" alt="delta" height="40"/> </a>
   <a href="https://iceberg.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Iceberg-00ADD8?style=for-the-badge&logo=apache-iceberg&logoColor=white" alt="iceberg" height="40"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FA7343?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a>
