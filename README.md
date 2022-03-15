@@ -3,17 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvrpl&theme=chalk" alt="mvrpl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mvrpl_br" target="blank"><img src="https://img.shields.io/twitter/follow/mvrpl_br?logo=twitter&style=for-the-badge" alt="mvrpl_br" /></a> </p>
-
-- 🌱 Atualmente estou aprendendo **Kafka, BlockChain, GoLang**
-
-- 📝 Eu regularmente escrevo artigos em [https://mvrpl.dev.br](https://mvrpl.dev.br)
-
 <h3 align="left"><b>Redes Sociais:</b></h3>
 <p align="left">
-<a href="https://twitter.com/mvrpl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mvrpl_br" height="40" /></a>
 <a href="https://linkedin.com/in/mvrpl" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mvrpl" height="40" /></a>
-<a href="https://mvrpl.dev.br/pt-br/rss/" target="blank"><img align="center" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="https://mvrpl.dev.br/pt-br/rss/" height="40" /></a>
 </p>
 
 <h3 align="left"><b>Linguagens e ferramentas de conhecimento:</b></h3>
@@ -29,6 +21,9 @@
   <a href="https://spark.apache.org" target="_blank"> <img src="https://img.shields.io/badge/Apache_Spark-FA7343?style=for-the-badge&logo=apache-spark&logoColor=white" alt="apache-spark" height="40"/> </a> <a href="https://hbase.apache.org" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hbase-CC342D?style=for-the-badge&logo=apache-hbase&logoColor=white" alt="apache-hbase" height="40"/> </a>
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Airflow-1793D1?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="airflow" height="40"/> </a>
   <h4><i> --- Intermediário ---</i></h4>
+  <a href="https://delta.io/" target="_blank"> <img src="https://img.shields.io/badge/Delta_IO-00ADD8?style=for-the-badge&logo=delta-io&logoColor=white" alt="delta" height="40"/> </a>
+  <a href="https://iceberg.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Iceberg-00ADD8?style=for-the-badge&logo=apache-iceberg&logoColor=white" alt="iceberg" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FA7343?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="40"/> </a>
@@ -41,7 +36,6 @@
   <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/badge/RabbitMQ-FA7343?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" height="40"/> </a>
   <h4><i> --- Básico ---</i></h4>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="40"/> </a>
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank"> <img src="https://img.shields.io/badge/Nginx-6DB33F?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle_Database-FF0000?style=for-the-badge&logo=oracle&logoColor=white"  alt="oracle" height="40"/> </a>
