@@ -3,11 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvrpl&theme=chalk" alt="mvrpl" /></a> </p>
 
-<h3 align="left"><b>Redes Sociais:</b></h3>
-<p align="left">
-<a href="https://linkedin.com/in/mvrpl" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mvrpl" height="40" /></a>
-</p>
-
 <h3 align="left"><b>Linguagens e ferramentas de conhecimento:</b></h3>
 <p align="left"> 
   <h4><i> --- Avançado ---</i></h4>
