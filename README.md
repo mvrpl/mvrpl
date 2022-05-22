@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvrpl&theme=chalk" alt="mvrpl" /></a> </p>
 
-<h3 align="left"><b>Linguagens e ferramentas de conhecimento:</b></h3>
+<h3 align="left"><b>Linguagens, frameworks e utilitários:</b></h3>
 <p align="left"> 
   <h4><i> --- Avançado ---</i></h4>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/> </a>
