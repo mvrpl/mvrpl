@@ -27,7 +27,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" height="40"/> </a>
-  <a href="https://golang.org" target="_blank"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="40"/> </a>
+  <a href="https://go.dev" target="_blank"> <img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/badge/RabbitMQ-FA7343?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" height="40"/> </a>
@@ -43,6 +43,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FA7343?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" height="40"/> </a>
   <a href="https://travis-ci.org" target="_blank"> <img src="https://img.shields.io/badge/Travis_CI-666666?style=for-the-badge&logo=travis&logoColor=white" alt="travisci" height="40"/> </a>
   <a href="https://neo4j.com" target="_blank"> <img src="https://img.shields.io/badge/Neo4J-0FAAFF?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-2752DF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" height="40"/> </a>
   <a href="https://ethereum.org" target="_blank"> <img src="https://img.shields.io/badge/Ethereum-404D59?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum" height="40"/> </a>
   </p>
   
