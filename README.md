@@ -6,6 +6,7 @@
 <h3 align="left"><b>Linguagens, frameworks e utilitários:</b></h3>
 <p align="left"> 
   <h4><i> --- Avançado ---</i></h4>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FA7343?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hadoop-CCA300?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="hadoop" height="40"/> </a>
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Hive-CCA300?style=for-the-badge&logo=apache-hive&logoColor=white" alt="hive" height="40"/> </a>
@@ -21,7 +22,6 @@
   <a href="https://delta.io/" target="_blank"> <img src="https://img.shields.io/badge/Delta_IO-003366?style=for-the-badge&logo=delta&logoColor=white" alt="delta" height="40"/> </a>
   <a href="https://iceberg.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Iceberg-00ADD8?style=for-the-badge&logo=apache-iceberg&logoColor=white" alt="iceberg" height="40"/> </a>
   <a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FA7343?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-4285F4?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"/> </a>
