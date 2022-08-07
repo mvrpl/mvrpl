@@ -45,5 +45,6 @@
   <a href="https://neo4j.com" target="_blank"> <img src="https://img.shields.io/badge/Neo4J-0FAAFF?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-2752DF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" height="40"/> </a>
   <a href="https://ethereum.org" target="_blank"> <img src="https://img.shields.io/badge/Ethereum-404D59?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum" height="40"/> </a>
+  <a href="https://waves.tech" target="_blank"> <img src="https://img.shields.io/badge/Waves-2254F5?style=for-the-badge&logo=waves&logoColor=white" alt="waves" height="40"/> </a>
   </p>
   
