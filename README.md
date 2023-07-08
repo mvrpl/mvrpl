@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Marcos Lima</h1>
 <h3 align="center">Engenheiro de software | Big Data-BlockChain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvrpl&theme=chalk" alt="mvrpl" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=mvrpl&theme=chalk" alt="mvrpl" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrpl&langs_count=10&layout=compact&hide=html,css,dockerfile,ruby,makefile,smarty,c&exclude_repo=CallBinFromSpark" />
 
