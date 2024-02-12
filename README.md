@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Marcos Lima</h1>
-<h3 align="center">Engenheiro de software | Big Data-BlockChain</h3>
+<h3 align="center">Técnico de Big Data & BlockChain</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrpl&langs_count=10&layout=compact&hide=html,css,dockerfile,ruby,makefile,smarty,c&exclude_repo=CallBinFromSpark" />
 
