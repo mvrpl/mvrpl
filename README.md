@@ -48,7 +48,7 @@ Hi 👋, I am Marcos Lima
 
 ## 🧰 My Toolbox
 
-[![aws](https://img.shields.io/badge/Amazon_WS-8c3424?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/s3/)
+[![aws](https://img.shields.io/badge/Amazon_WS-8c3424?style=for-the-badge&logo=amazon&logoColor=white)](https://aws.amazon.com/)
 [![bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
