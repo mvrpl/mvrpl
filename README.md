@@ -18,11 +18,11 @@ Hi 👋, I am Marcos Lima
     <a href="https://github.com/mvrpl/Spark_DataSources#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=Spark_DataSources&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
     </a>
-    <a href="https://github.com/mvrpl/private-blockchain#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=private-blockchain&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+    <a href="https://github.com/mvrpl/hyperledger-fabric-demo#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=hyperledger-fabric-demo&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
     </a>
-    <a href="https://github.com/mvrpl/private-blockchain#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=private-blockchain&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+    <a href="https://github.com/mvrpl/hyperledger-fabric-demo#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=hyperledger-fabric-demo&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
     </a>
     <a href="https://github.com/mvrpl/credit_services_blockchain#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=mvrpl&repo=credit_services_blockchain&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
