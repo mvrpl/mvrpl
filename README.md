@@ -89,3 +89,10 @@ Hi 👋, I am Marcos Lima
 | [![NoSQL](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.no_sql&style=for-the-badge&label=No-SQL&nbsp;DBs&color=%23C0C0C0)](#) | [![APIs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.api&style=for-the-badge&label=APIs&color=%23C0C0C0)](#) |
 | [![Kafka](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.kafka&style=for-the-badge&label=Apache&nbsp;Kafka&color=%23C0C0C0)](#) | [![Hyperledger](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.hyperledger&style=for-the-badge&label=Hyperledger&color=%23CD7F32)](#) |
 | [![duckdb](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.duckdb&style=for-the-badge&label=DuckDB&color=%23CD7F32)](#) | [![IaC](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.mvrpl.dev%2Fexps.json&query=%24.iac&style=for-the-badge&label=Infra&nbsp;As&nbsp;Code&color=%23CD7F32)](#) |
+
+Legend:
+
+![Static Badge](https://img.shields.io/badge/Specialist-E5E4E2?style=flat)
+![Static Badge](https://img.shields.io/badge/Senior-FFD700?style=flat)
+![Static Badge](https://img.shields.io/badge/MidLevel-C0C0C0?style=flat)
+![Static Badge](https://img.shields.io/badge/Beginner-CD7F32?style=flat)
