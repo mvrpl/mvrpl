@@ -59,6 +59,7 @@ Hi 👋, I am Marcos Lima
 [![apache-spark](https://img.shields.io/badge/Apache_Spark-FA7343?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org)
 [![apache-kafka](https://img.shields.io/badge/Apache_Kafka-D3D3D3?style=for-the-badge&logo=apache-kafka&logoColor=black)](https://kafka.apache.org)
 [![rabbitmq](https://img.shields.io/badge/RabbitMQ-e65c00?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![qdrant](https://img.shields.io/badge/qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 [![apache-cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org)
 [![apache-parquet](https://img.shields.io/badge/Apache_Parquet-00bfff?style=for-the-badge&logo=apache-parquet&logoColor=white)](https://parquet.apache.org)
 [![apache-airflow](https://img.shields.io/badge/Apache_Airflow-1793D1?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org)
